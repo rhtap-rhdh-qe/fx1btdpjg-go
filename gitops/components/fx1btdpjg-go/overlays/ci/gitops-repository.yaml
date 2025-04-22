@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fx1btdpjg-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/fx1btdpjg-go-gitops
